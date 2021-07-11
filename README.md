@@ -1,0 +1,1 @@
+Este arquivo nos vemos alguns algoritmos de ordenação, e de busca.
